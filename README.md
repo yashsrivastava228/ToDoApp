@@ -1,4 +1,4 @@
-<h1 align="center">PRODUCT STORE</h1>
+<h1 align="center">ToDoApp</h1>
 ToDoApp is a simple yet functional web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This project allows users to manage their tasks efficiently with an intuitive interface. Users can easily create, update, and delete their to-dos, ensuring a seamless task management experience.
 
 ## Overview
