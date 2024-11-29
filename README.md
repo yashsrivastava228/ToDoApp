@@ -4,7 +4,7 @@ ToDoApp is a simple yet functional web application built using the MERN stack (M
 ## Overview
 
 <div>
-  <img src="https://github.com/user-attachments/assets/52f7d8ca-4af1-4922-95f7-3095ca614272" alt="Screenshot 1" width="600" />
+  <img src="https://github.com/user-attachments/assets/fbda4caa-f6a0-4033-8596-b7b407327fba" alt="Screenshot 1" width="800" />
 </div>
 <br><br>
 
